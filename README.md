@@ -1,0 +1,2 @@
+# Dictionary-Scraper
+scrapes dictionary
